@@ -9,7 +9,7 @@
 </br>
 
 
-  <img align="right" src="https://media1.giphy.com/media/24b8vkacKFitXv9Qq1/giphy.gif?cid=ecf05e474akm784uv7sz20yz6tyqyjy2gg39932ts0ntteyk&rid=giphy.gif&ct=s" width="300" height="300">
+  <img align="right" src="https://media1.giphy.com/media/24b8vkacKFitXv9Qq1/giphy.gif?cid=ecf05e474akm784uv7sz20yz6tyqyjy2gg39932ts0ntteyk&rid=giphy.gif&ct=s" width="50" height="50">
 
  - 🔭 I’m currently working on Student Database Management System
  - 🌱 I’m currently learning JavaScript & Python
