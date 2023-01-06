@@ -13,6 +13,7 @@
 
  - 🔭 I’m currently working on Student Database Management System
  - 🌱 I’m currently learning JavaScript & Python
+ - 👀 I’m looking to collaborate on Javascript Projects
 
 <div>
   <a href="https://github.com/mayaralbueno">
