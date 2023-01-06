@@ -6,7 +6,7 @@
 <h2 align="left">Hi i'm Pallavi &#10024</h2>
 <h4 align ="left">An aspiring Web Developer and a video editor &#128187</h4></p>
 </br>
-
+</br>
 
 
 
