@@ -9,17 +9,17 @@
 </br>
 
 
-
+  <img align="right" src="https://media1.giphy.com/media/24b8vkacKFitXv9Qq1/giphy.gif?cid=ecf05e474akm784uv7sz20yz6tyqyjy2gg39932ts0ntteyk&rid=giphy.gif&ct=s" width="300" height="300">
 
  - 🔭 I’m currently working on Student Database Management System
  - 🌱 I’m currently learning JavaScript & Python
  - 👀 I’m looking to collaborate on Javascript Projects
 
 <div>
- <p>
+
   <a href="https://github.com/mayaralbueno">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PallaviSrivastavaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PallaviSrivastavaa&layout=compact&langs_count=7&theme=radical"/>
-  <img align="right" src="https://media1.giphy.com/media/24b8vkacKFitXv9Qq1/giphy.gif?cid=ecf05e474akm784uv7sz20yz6tyqyjy2gg39932ts0ntteyk&rid=giphy.gif&ct=s" width="300" height="300">
-   </p>
+
+   
 </div>  
