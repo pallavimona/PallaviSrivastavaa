@@ -3,8 +3,8 @@
 
 
 <p><img align="left" src="https://media0.giphy.com/media/AqcfW6opza0r1eznPc/giphy.gif?cid=790b761110536131319f050d455bb43990ddc15b21a7e526&rid=giphy.gif&ct=s" width="150" height="150">
-<h2 align="left">Hi i'm Pallavi &#10024</h2>
-<h4 align ="left">An aspiring Web Developer and a video editor &#128187</h4></p>
+<h2 align="center">Hi i'm Pallavi &#10024</h2>
+<h4 align ="center">An aspiring Web Developer and a video editor &#128187</h4></p>
 </br>
 </br>
 
