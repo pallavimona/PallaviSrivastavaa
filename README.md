@@ -2,7 +2,7 @@ img.animated-gif{
   width: 120px;
   height: auto;
 }
-<img class="animated-gif" src="![c09a97a8f18cb8908ea897639cbe4fa8](https://user-images.githubusercontent.com/88917169/211085829-5d093c64-d9d2-4564-bbc5-950dcea44e5e.gif)">
+<img class="animated-gif" src="https://i.pinimg.com/originals/c0/9a/97/c09a97a8f18cb8908ea897639cbe4fa8.gif">
 
 
 <!--
