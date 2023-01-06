@@ -2,7 +2,7 @@
 
 
 
-<p align="left"><img src="https://i.pinimg.com/originals/c0/9a/97/c09a97a8f18cb8908ea897639cbe4fa8.gif" width="90" height="90"></p>
+<p align="left"><img src="https://media0.giphy.com/media/AqcfW6opza0r1eznPc/giphy.gif?cid=790b761110536131319f050d455bb43990ddc15b21a7e526&rid=giphy.gif&ct=s" width="90" height="90"></p>
 <h2 align="left";>Hi i'm Pallavi &#10024</h2>
 
 
