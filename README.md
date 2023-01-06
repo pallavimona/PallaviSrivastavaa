@@ -3,7 +3,7 @@
 
 
 <p align="right"; ><img src="https://media0.giphy.com/media/AqcfW6opza0r1eznPc/giphy.gif?cid=790b761110536131319f050d455bb43990ddc15b21a7e526&rid=giphy.gif&ct=s" width="100" height="100"></p>
-<h2 color="blue";align-text="left";>Hi i'm Pallavi &#10024</h2>
+<h2 style="color=tomato" align-text="left";>Hi i'm Pallavi &#10024</h2>
 
 
 
