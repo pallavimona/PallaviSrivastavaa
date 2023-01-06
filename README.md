@@ -1,5 +1,5 @@
 
-<img class="animated-gif" src="https://i.pinimg.com/originals/c0/9a/97/c09a97a8f18cb8908ea897639cbe4fa8.gif" width="128" height="128">
+<img class="animated-gif" src="https://i.pinimg.com/originals/c0/9a/97/c09a97a8f18cb8908ea897639cbe4fa8.gif" width="150" height="150">
 
 
 <!--
