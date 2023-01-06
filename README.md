@@ -1,6 +1,6 @@
 img.animated-gif{
-  width: 120px;
-  height: auto;
+  width: 10px;
+  height: 10px;
 }
 <img class="animated-gif" src="https://i.pinimg.com/originals/c0/9a/97/c09a97a8f18cb8908ea897639cbe4fa8.gif">
 
