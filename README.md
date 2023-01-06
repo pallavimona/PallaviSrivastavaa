@@ -1,9 +1,9 @@
 
 
-<p align="center">
+
 <h2>Hi i'm Pallavi &#10024</h2>
-<img align:"left" class="animated-gif" src="https://i.pinimg.com/originals/c0/9a/97/c09a97a8f18cb8908ea897639cbe4fa8.gif" width="100" height="100">
-</p>
+<img align:"left"  width="100" height="100" src="https://i.pinimg.com/originals/c0/9a/97/c09a97a8f18cb8908ea897639cbe4fa8.gif">
+
 
 
 
