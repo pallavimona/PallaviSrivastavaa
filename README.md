@@ -2,7 +2,7 @@
 
 
 
-<p aligh="center" alt="coding"><img src="https://i.pinimg.com/originals/c0/9a/97/c09a97a8f18cb8908ea897639cbe4fa8.gif" width="90" height="90"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/c0/9a/97/c09a97a8f18cb8908ea897639cbe4fa8.gif" width="90" height="90"></p>
 <h2 align="center";>Hi i'm Pallavi &#10024</h2>
 
 
