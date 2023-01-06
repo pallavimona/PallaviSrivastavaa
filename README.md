@@ -1,6 +1,6 @@
 
 
-<h2 style="padding-left: 100px;padding-top: 100px">Hi i'm Pallavi &#10024</h2>
+<h2 style="padding-right: 100px;padding-top: 100px">Hi i'm Pallavi &#10024</h2>
 <img class="animated-gif" src="https://i.pinimg.com/originals/c0/9a/97/c09a97a8f18cb8908ea897639cbe4fa8.gif" width="100" height="100">
 
 
