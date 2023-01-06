@@ -14,3 +14,4 @@
  - 🔭 I’m currently working on Student Database Management System
  - 🌱 I’m currently learning JavaScript & Python
 
+![Pallavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PallaviSrivastavaa&show_icons=true)
