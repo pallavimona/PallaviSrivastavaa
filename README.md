@@ -1,9 +1,9 @@
+
+<img class="animated-gif" src="https://i.pinimg.com/originals/c0/9a/97/c09a97a8f18cb8908ea897639cbe4fa8.gif">
 img.animated-gif{
   width: 1px;
   height: 1px;
 }
-<img class="animated-gif" src="https://i.pinimg.com/originals/c0/9a/97/c09a97a8f18cb8908ea897639cbe4fa8.gif">
-
 
 <!--
 **PallaviSrivastavaa/PallaviSrivastavaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
